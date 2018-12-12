@@ -1,0 +1,35 @@
+body{
+	background-color: #576490;
+}
+h1 {
+	background-color:#7796CB ;
+	width: 85%;
+	padding: 1%;
+	text-align:center;
+	margin:0 auto;
+	font-family: 'Modak', cursive;
+	color:#FF9B38;
+	font-size: 80px;
+	text-align:center;
+}
+h2 {
+	font-family: 'Spicy Rice', cursive;	
+	color:#2A2D34;
+	background-color:#7796CB ;
+	width: 85%;
+	padding: 1%;
+	text-align:center;
+	margin:0 auto;
+	font-family: 'Spicy Rice', cursive;	
+}
+h3 {
+	font-family: 'Spicy Rice', cursive;	
+	color:#2A2D34;
+	background-color:#7796CB ;
+	width: 85%;
+	padding: 1%;
+	text-align:center;
+	margin:0 auto;
+	font-family: 'Spicy Rice', cursive;	
+
+
